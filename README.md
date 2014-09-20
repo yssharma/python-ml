@@ -10,10 +10,10 @@ INSTALL Pattern for ML Pattern mining<br/>
 ```sudo pip install pattern```
 
 
-Start Server:
+Start Server:<br/>
 ```python start-server.py```
 
-Test in browser:
-```localhost:8081
-localhost:8081/searchtweets
-localhost:8081/searchtweets/microsoft and google```
+Test in browser:<br/>
+<code>localhost:8081<br/>
+localhost:8081/searchtweets<br/>
+localhost:8081/searchtweets/microsoft and google</code>
